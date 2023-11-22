@@ -1,0 +1,50 @@
+# Compiled Object Files
+*.o
+*.out
+
+# Compiled Binaries
+*.exe
+*.out
+
+# Build Directories
+/build/
+/bin/
+/out/
+
+# Dependency and Package Directories
+/lib/
+/vendor/
+
+# IDE and Editor-Generated Files
+/.vscode/
+/.idea/
+.project
+.cproject
+/.suo
+/.user
+/.DS_Store
+
+# Temporary or Backup Files
+*~
+*.swp
+*.swo
+.clangd/
+
+# Log Files
+*.log
+
+# User-Specific Configuration Files
+.userprefs
+.user.settings
+.project.user
+
+# Documentation and Generated Documentation
+/doc/
+/html/
+/latex/
+
+# Compiler or Build Tool Output
+CMakeFiles/
+.vs/
+.clang/
+
